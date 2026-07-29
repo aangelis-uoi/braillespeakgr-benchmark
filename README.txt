@@ -5,6 +5,15 @@
 - `benchmark_analyzer_v2.py`: professional benchmark engine.
 - `gui_benchmark_analyzer_v2.py`: graphical interface.
 - `Benchmark_Master_BrailleSpeakGR.csv`: input dataset.
+- `01_pharmaceutical_label.jpg` ... `10_vitamin_box.jpg`: the ten benchmark
+  document images used as OCR input for the four evaluated systems.
+
+## Note on Image 10
+
+Image 10 ("Vitamin box") uses a representative vitamin supplement product
+box, photographed by the author, matching the general "vitamin box" category
+used in the benchmark. It is provided as a representative substitute for
+this category.
 
 ## Run with GUI
 
