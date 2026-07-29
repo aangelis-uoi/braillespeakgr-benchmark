@@ -1,0 +1,41 @@
+﻿image_id,image_name,category,system,ocr_success,response_time_seconds,diphthong_errors,punctuation_errors,polytonic_errors,english_terms_ok,braille_unicode_output,notes,source_file
+1,Glucophage 1000mg,Pharmaceutical label,BrailleSpeakGR,1,5.4,0,0,,,1,0 errors,BrailleSpeakGR_Benchmark_v4_GR.docx
+1,Glucophage 1000mg,Pharmaceutical label,VoiceOver,1,5.0,1,1,,,0,Few diphthong/punctuation errors,BrailleSpeakGR_Benchmark_v4_GR.docx
+1,Glucophage 1000mg,Pharmaceutical label,Seeing AI,0,0.0,,,,0,0,No Greek output,BrailleSpeakGR_Benchmark_v4_GR.docx
+1,Glucophage 1000mg,Pharmaceutical label,Google Lookout,1,6.0,2,1,,,0,2-3 diphthong errors,BrailleSpeakGR_Benchmark_v4_GR.docx
+2,FORTIUS D3+B12 box,Pharmaceutical / vitamin box,BrailleSpeakGR,1,5.6,0,0,,1,1,0 errors; English terms OK,BrailleSpeakGR_Benchmark_v4_GR.docx
+2,FORTIUS D3+B12 box,Pharmaceutical / vitamin box,VoiceOver,1,6.0,2,1,,1,0,Few diphthong/punctuation errors,BrailleSpeakGR_Benchmark_v4_GR.docx
+2,FORTIUS D3+B12 box,Pharmaceutical / vitamin box,Seeing AI,0,0.0,,,,0,0,No Greek output,BrailleSpeakGR_Benchmark_v4_GR.docx
+2,FORTIUS D3+B12 box,Pharmaceutical / vitamin box,Google Lookout,1,7.0,2,1,,0,0,Ignored English terminology,BrailleSpeakGR_Benchmark_v4_GR.docx
+3,Incresync instructions,Pharmaceutical instructions,BrailleSpeakGR,1,18.1,0,0,,,1,0 errors,BrailleSpeakGR_Benchmark_v4_GR.docx
+3,Incresync instructions,Pharmaceutical instructions,VoiceOver,1,18.0,1,2,,,0,Few errors,BrailleSpeakGR_Benchmark_v4_GR.docx
+3,Incresync instructions,Pharmaceutical instructions,Seeing AI,0,0.0,,,,0,0,No Greek output,BrailleSpeakGR_Benchmark_v4_GR.docx
+3,Incresync instructions,Pharmaceutical instructions,Google Lookout,1,19.0,3,2,,,0,2-3 diphthong errors,BrailleSpeakGR_Benchmark_v4_GR.docx
+4,Garden bench catalogue,Product catalogue,BrailleSpeakGR,1,30.7,0,0,,,1,0 errors,BrailleSpeakGR_Benchmark_v4_GR.docx
+4,Garden bench catalogue,Product catalogue,VoiceOver,1,30.0,2,2,,,0,Few errors,BrailleSpeakGR_Benchmark_v4_GR.docx
+4,Garden bench catalogue,Product catalogue,Seeing AI,0,0.0,,,,0,0,No Greek output,BrailleSpeakGR_Benchmark_v4_GR.docx
+4,Garden bench catalogue,Product catalogue,Google Lookout,1,31.0,2,2,,,0,2-3 diphthong errors,BrailleSpeakGR_Benchmark_v4_GR.docx
+5,Tools catalogue,Product catalogue,BrailleSpeakGR,1,5.4,0,0,,,1,0 errors,BrailleSpeakGR_Benchmark_v4_GR.docx
+5,Tools catalogue,Product catalogue,VoiceOver,1,5.0,1,1,,,0,Few errors,BrailleSpeakGR_Benchmark_v4_GR.docx
+5,Tools catalogue,Product catalogue,Seeing AI,0,0.0,,,,0,0,No Greek output,BrailleSpeakGR_Benchmark_v4_GR.docx
+5,Tools catalogue,Product catalogue,Google Lookout,1,6.0,2,1,,,0,2-3 diphthong errors,BrailleSpeakGR_Benchmark_v4_GR.docx
+6,Τα Ζώα της Ζούγκλας,Children's book,BrailleSpeakGR,1,18.1,0,0,,,1,0 errors,BrailleSpeakGR_Benchmark_v4_GR.docx
+6,Τα Ζώα της Ζούγκλας,Children's book,VoiceOver,1,18.0,2,1,,,0,Few errors,BrailleSpeakGR_Benchmark_v4_GR.docx
+6,Τα Ζώα της Ζούγκλας,Children's book,Seeing AI,0,0.0,,,,0,0,No Greek output,BrailleSpeakGR_Benchmark_v4_GR.docx
+6,Τα Ζώα της Ζούγκλας,Children's book,Google Lookout,1,19.0,3,1,,,0,2-3 diphthong errors,BrailleSpeakGR_Benchmark_v4_GR.docx
+7,Activity book,Children's activity book,BrailleSpeakGR,1,30.7,0,0,,,1,0 errors,BrailleSpeakGR_Benchmark_v4_GR.docx
+7,Activity book,Children's activity book,VoiceOver,1,30.0,2,2,,,0,Few errors,BrailleSpeakGR_Benchmark_v4_GR.docx
+7,Activity book,Children's activity book,Seeing AI,0,0.0,,,,0,0,No Greek output,BrailleSpeakGR_Benchmark_v4_GR.docx
+7,Activity book,Children's activity book,Google Lookout,1,31.0,2,2,,,0,2-3 diphthong errors,BrailleSpeakGR_Benchmark_v4_GR.docx
+8,Ancient Greek + English terminology — Aristotle,Polytonic ancient Greek + English terminology,BrailleSpeakGR,1,18.1,0,0,0,1,1,0 errors; English terms OK,BrailleSpeakGR_Benchmark_v4_GR.docx
+8,Ancient Greek + English terminology — Aristotle,Polytonic ancient Greek + English terminology,VoiceOver,1,18.0,7,8,8,0,0,7-8 polytonic/diphthong/punctuation errors,BrailleSpeakGR_Benchmark_v4_GR.docx
+8,Ancient Greek + English terminology — Aristotle,Polytonic ancient Greek + English terminology,Seeing AI,0,0.0,,,,0,0,No Greek output,BrailleSpeakGR_Benchmark_v4_GR.docx
+8,Ancient Greek + English terminology — Aristotle,Polytonic ancient Greek + English terminology,Google Lookout,1,18.0,,,,0,0,Many errors; ignored English terminology,BrailleSpeakGR_Benchmark_v4_GR.docx
+9,Mixed Greek-English monotonic,Mixed Greek-English monotonic,BrailleSpeakGR,1,18.1,0,0,,1,1,0 errors; English terms OK,BrailleSpeakGR_Benchmark_v4_GR.docx
+9,Mixed Greek-English monotonic,Mixed Greek-English monotonic,VoiceOver,1,18.0,1,2,,1,0,Few errors,BrailleSpeakGR_Benchmark_v4_GR.docx
+9,Mixed Greek-English monotonic,Mixed Greek-English monotonic,Seeing AI,0,0.0,,,,0,0,No Greek output,BrailleSpeakGR_Benchmark_v4_GR.docx
+9,Mixed Greek-English monotonic,Mixed Greek-English monotonic,Google Lookout,1,19.0,2,1,,0,0,Ignored English terminology,BrailleSpeakGR_Benchmark_v4_GR.docx
+10,Vitamin box,Vitamin box,BrailleSpeakGR,1,5.6,0,0,,,1,0 errors,BrailleSpeakGR_Benchmark_v4_GR.docx
+10,Vitamin box,Vitamin box,VoiceOver,1,6.0,1,1,,,0,Few errors,BrailleSpeakGR_Benchmark_v4_GR.docx
+10,Vitamin box,Vitamin box,Seeing AI,0,0.0,,,,0,0,No Greek output,BrailleSpeakGR_Benchmark_v4_GR.docx
+10,Vitamin box,Vitamin box,Google Lookout,1,6.0,2,1,,,0,2-3 diphthong errors,BrailleSpeakGR_Benchmark_v4_GR.docx
